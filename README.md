@@ -5,8 +5,7 @@ Develop an object recognition model that can detect 4 different classes: food, b
 This project develops an object recognition model capable of categorizing images into four classes: food, buildings, landscapes, and people. Designed for a web-based company, the model enhances user experience and advertising effectiveness on the platform.
 
 ## Team Members
-- Mahmoud Ibrahim Elsayed (20025336)
-- Fatmaelzahraa Elgamal
+- Mahmoud Ibrahim Elsayed
 
 ## Problem Statement
 The goal is to create a model that accurately classifies customer photographs to improve user interaction and optimize advertising strategies on a web platform.
